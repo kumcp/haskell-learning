@@ -1,0 +1,5 @@
+{
+  "haskell.hlint.executablePath": "/home/kum/.local/bin",
+  "haskell.hlint.run": "onSave",
+  "svn.ignoreMissingSvnWarning": true
+}

@@ -1,0 +1,30 @@
+2018-11-18 14:00:00 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 45>: hPutChar: resource vanished (Broken pipe)
+
+2018-11-18 14:00:00 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-11-18 14:00:43 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 45>: hPutChar: resource vanished (Broken pipe)
+
+2018-11-18 14:00:43 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-11-18 14:02:23 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 45>: hPutChar: resource vanished (Broken pipe)
+
+2018-11-18 14:02:23 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-11-18 14:04:52 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 45>: hPutChar: resource vanished (Broken pipe)
+
+2018-11-18 14:04:52 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-11-18 14:06:03 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 45>: hPutChar: resource vanished (Broken pipe)
+
+2018-11-18 14:06:03 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-11-24 04:43:36 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 45>: hPutChar: resource vanished (Broken pipe)
+
+2018-11-24 04:43:36 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-11-24 04:44:45 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 45>: hPutChar: resource vanished (Broken pipe)
+
+2018-11-24 04:44:45 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-11-24 13:57:43 [ThreadId 7] ERROR phoityne - load file fail.[/home/kum/project/research/haskell/stack-examples/first-example/test/Spec.hs]
+2018-11-24 13:57:43 [ThreadId 7] ERROR phoityne - startup load error. /home/kum/project/research/haskell/stack-examples/first-example/test/Spec.hs
+
+2018-11-25 01:27:49 [ThreadId 7] ERROR phoityne - load file fail.[/home/kum/project/research/haskell/stack-examples/first-example/test/Spec.hs]
+2018-11-25 01:27:49 [ThreadId 7] ERROR phoityne - startup load error. /home/kum/project/research/haskell/stack-examples/first-example/test/Spec.hs
+
+2018-11-25 02:03:56 [ThreadId 7] ERROR phoityne - load file fail.[/home/kum/project/research/haskell/stack-examples/first-example/test/Spec.hs]
+2018-11-25 02:03:56 [ThreadId 7] ERROR phoityne - startup load error. /home/kum/project/research/haskell/stack-examples/first-example/test/Spec.hs
+
